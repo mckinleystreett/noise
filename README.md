@@ -1,6 +1,8 @@
 # noise
 max msp drawdio keyboard application 
 
+>>>>>> download file: "noise"
+
 solder a paperclip to a wire
 
 then connect that wire to 5V on the arduino 
