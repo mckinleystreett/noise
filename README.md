@@ -1,7 +1,7 @@
 # noise
 max msp drawdio keyboard application 
 
->>>>>> download file: "noise"
+>>>>>> download "noise.zip"
 
 solder a paperclip to a wire
 
