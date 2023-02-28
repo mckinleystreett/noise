@@ -17,7 +17,7 @@ then plug the arduino into your computer
 
 then use the pencil to draw a small dark shape on the corner of a piece of paper
 
-then put attach the paperclip to that drawn shape
+then attach the paperclip to that drawn shape
 
 then open the application "noise" and press the large button in the upper center
 
