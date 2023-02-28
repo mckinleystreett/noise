@@ -23,6 +23,6 @@ then open the application "noise" and press the large button in the upper center
 
 then use the pencil to draw, starting from the dark shape near the paperclip 
 
-et voila 💋💋💋💋💋💋💋💋💋
+et voila 💋💋💋💋💋💋💋💋
 
 demonstration video: 
